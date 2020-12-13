@@ -1,0 +1,89 @@
+body{
+    background-image: url("Unknown.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    color:white;
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Cinzel', serif;
+    text-decoration: none;
+}
+.back {
+    position: absolute middle;
+    left: 1.3%;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    opacity: .8;
+    font-family: 'Courier New', Courier, monospace
+    
+  }
+footer {
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+}
+.bio{
+    color: white;
+    font-family: 'Cinzel', serif;
+
+}
+.rocket{
+    width: 400px;
+    height: 400px;
+    
+}
+button.button {
+    border: none;
+    background-color: transparent;
+    font-family: inherit;
+    padding: 0;
+    cursor: pointer;
+    position: absolute;
+    right: 1.3%;
+    color: white;
+    background-color:  rgb(133, 149, 180);
+    padding: 15px 32px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+  
+    @media screen and (-ms-high-contrast: active) {
+      border: 2px solid currentcolor;
+    }
+  }
+  .zig-zag { 
+    border: none; 
+    width: 50%; 
+    margin: auto; 
+    margin-top: 5%; 
+    margin-bottom: 5%; 
+    height: 40px; 
+    background: linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -20px 0, linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -20px 0, linear-gradient(315deg, #ECEDDC 25%, transparent 25%), linear-gradient(45deg, #ECEDDC 25%, transparent 25%); 
+    background-size: 40px 40px; background-color: blue}
+
+
+    .nav-link{
+        font-family: 'Cinzel', serif;
+    }
+    .theme{
+        color: white;
+    }
+    .btn .btn-info .btn-lg{
+        position: absolute;
+        right: 1.3%;
+    }
+    .money{
+        position: absolute;
+        right: 1.3%;
+
+    }
+.p{
+
+    color: white;
+    font-family: 'Cinzel', serif;
+}
+
+    

@@ -1,0 +1,40 @@
+.bio{
+    color: white;
+    font-family: 'Cinzel', serif;
+
+}
+body{
+    background-image: url("Unknown.png");
+    background-size: cover;
+}
+.rocket{
+    width: 400px;
+    height: 400px;
+}
+button.button {
+    border: none;
+    background-color: transparent;
+    font-family: inherit;
+    padding: 0;
+    cursor: pointer;
+  
+    @media screen and (-ms-high-contrast: active) {
+      border: 2px solid currentcolor;
+    }
+  }
+
+h2{
+
+    color:white;
+    font-size: 60px;
+    font-family: 'Cinzel', serif;
+    text-decoration: none;
+}
+
+.ship{
+    width: 100px;
+    height: 100px;
+}
+.theme{
+    color: white;
+}
